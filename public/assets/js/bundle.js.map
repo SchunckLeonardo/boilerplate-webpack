@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA,IAAMA,GAAG,GAAG,aAAa;AAEzBC,QAAQ,CAACC,IAAI,CAACC,SAAS,UAAAC,MAAA,CAAUJ,GAAG,UAAO,C","sources":["webpack://boilerplate-webpack/./src/index.js"],"sourcesContent":["const msg = \"Hello World\"\r\n\r\ndocument.body.innerHTML = `<h1>${msg}</h1>`"],"names":["msg","document","body","innerHTML","concat"],"sourceRoot":""}
